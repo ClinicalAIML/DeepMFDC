@@ -8,7 +8,7 @@ import numpy as np
 import argparse
 import random
 from loss import Loss
-from Sim_Scenario2_1223 import load_data
+from simulation_case2 import load_data
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 from scipy.optimize import linear_sum_assignment
